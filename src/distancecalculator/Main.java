@@ -3,7 +3,7 @@ package distancecalculator;
 public class Main {
     public static void main(String[] args) {
 
-        // I think it's called instantiating an object of the Harvesine Distance Class
+        // I think it's called instantiating an object of the Havesine Distance Class or some shit like that
         HaversineDistance distance = new HaversineDistance();
 
         // This is actually the distance between Cape Town and Johannesburg
